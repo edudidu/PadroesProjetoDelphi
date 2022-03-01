@@ -17,7 +17,7 @@ type
 
    function ReceberPedido(Value : TPedido) : iPedidoDestino;
    function FinalizarPedido(Value : TPedido) : iPedidoDestino;
-   function Display(Value : TEvDisplay) : iPedidoOrigem;
+   function Display(Value : TEvDisplay) : iPedidoDestino;
    function Observer : iObserver;
 
    function Update(Value : TPedido) : iObserver;
@@ -41,7 +41,7 @@ begin
   inherited;
 end;
 
-function TModelCozinha.Display(Value: TEvDisplay): iPedidoOrigem;
+function TModelCozinha.Display(Value: TEvDisplay): iPedidoDestino;
 begin
   Result :=Self;
   FDisplay := Value;

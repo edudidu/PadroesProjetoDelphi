@@ -33,7 +33,7 @@ type
     ['{1E4F2F0D-3BC4-4400-9D4A-A25D3B0DA39D}']
     function ReceberPedido(Value : TPedido) : iPedidoDestino;
     function FinalizarPedido(Value : TPedido) : iPedidoDestino;
-    function Display(Value : TEvDisplay) : iPedidoOrigem;
+    function Display(Value : TEvDisplay) : iPedidoDestino;
     function Observer : iObserver;
   end;
 

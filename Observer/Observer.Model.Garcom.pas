@@ -61,7 +61,7 @@ end;
 function TModelGarcom.Update(Value: TPedido): iObserver;
 begin
   Result := Self;
-  Display('Recebido o Pedido: ' + Value.Produto + ' do Setor ' + value.Setor);
+  FDisplay('Recebido o Pedido: ' + Value.Produto + ' do Setor ' + value.Setor);
 end;
 
 end.
