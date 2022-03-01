@@ -1,0 +1,37 @@
+unit Observer.Model.Garcom;
+
+interface
+
+uses
+  Observer.Model.Interfaces;
+
+type
+  TModelGarcom = class(TInterfacedObject, iPedidoOrigem)
+  private
+  public
+   constructor Create;
+   destructor Destroy ; override;
+   class function New : iPedidoOrigem;
+  end;
+
+implementation
+
+{ TModelGarcom }
+
+constructor TModelGarcom.Create;
+begin
+
+end;
+
+destructor TModelGarcom.Destroy;
+begin
+
+  inherited;
+end;
+
+class function TModelGarcom.New: iPedidoOrigem;
+begin
+  Result := Self.create;
+end;
+
+end.

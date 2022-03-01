@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/02/11 22:54:38.000.454,=C:\Users\eduardo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/26 21:18:32.000.420,=C:\Users\eduardo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/28 22:36:24.000.821,=C:\Users\eduardo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/28 22:39:28.000.424,=C:\Users\eduardo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/01 14:34:41.938,=C:\Users\eduardo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/01 14:35:39.374,C:\Users\eduardo\Documents\Embarcadero\Studio\Projects\Observer.dproj=C:\Users\eduardo\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/03/01 14:38:22.562,C:\Users\eduardo\Documents\Cursos delphi\Padrões de Projeto\PadroesProjetoDelphi\Observer\Principal.pas=C:\Users\eduardo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/01 14:38:22.562,C:\Users\eduardo\Documents\Cursos delphi\Padrões de Projeto\PadroesProjetoDelphi\Observer\Principal.dfm=C:\Users\eduardo\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/03/01 14:38:31.029,C:\Users\eduardo\Documents\Cursos delphi\Padrões de Projeto\PadroesProjetoDelphi\Observer\Observer.dproj=C:\Users\eduardo\Documents\Embarcadero\Studio\Projects\Observer.dproj</Transaction>
+    <Transaction>2022/03/01 14:39:16.886,=C:\Users\eduardo\Documents\Cursos delphi\Padrões de Projeto\PadroesProjetoDelphi\Observer\Unit1.pas</Transaction>
+    <Transaction>2022/03/01 14:39:38.209,C:\Users\eduardo\Documents\Cursos delphi\Padrões de Projeto\PadroesProjetoDelphi\Observer\Observer.Model.Interfaces.pas=C:\Users\eduardo\Documents\Cursos delphi\Padrões de Projeto\PadroesProjetoDelphi\Observer\Unit1.pas</Transaction>
+    <Transaction>2022/03/01 14:56:18.063,=C:\Users\eduardo\Documents\Cursos delphi\Padrões de Projeto\PadroesProjetoDelphi\Observer\Unit1.pas</Transaction>
+    <Transaction>2022/03/01 14:56:34.618,C:\Users\eduardo\Documents\Cursos delphi\Padrões de Projeto\PadroesProjetoDelphi\Observer\Observer.Model.Observer.pas=C:\Users\eduardo\Documents\Cursos delphi\Padrões de Projeto\PadroesProjetoDelphi\Observer\Unit1.pas</Transaction>
+    <Transaction>2022/03/01 15:08:23.998,=C:\Users\eduardo\Documents\Cursos delphi\Padrões de Projeto\PadroesProjetoDelphi\Observer\Unit1.pas</Transaction>
+    <Transaction>2022/03/01 15:08:42.527,C:\Users\eduardo\Documents\Cursos delphi\Padrões de Projeto\PadroesProjetoDelphi\Observer\Observer.Model.Pedido.pas=C:\Users\eduardo\Documents\Cursos delphi\Padrões de Projeto\PadroesProjetoDelphi\Observer\Unit1.pas</Transaction>
+    <Transaction>2022/03/01 15:16:39.950,=C:\Users\eduardo\Documents\Cursos delphi\Padrões de Projeto\PadroesProjetoDelphi\Observer\Unit1.pas</Transaction>
+    <Transaction>2022/03/01 15:16:55.126,C:\Users\eduardo\Documents\Cursos delphi\Padrões de Projeto\PadroesProjetoDelphi\Observer\Observer.Model.Cozinha.pas=C:\Users\eduardo\Documents\Cursos delphi\Padrões de Projeto\PadroesProjetoDelphi\Observer\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

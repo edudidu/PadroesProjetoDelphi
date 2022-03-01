@@ -1,0 +1,56 @@
+unit Observer.Model.Observer;
+
+interface
+
+uses
+  Observer.Model.Interfaces;
+
+type
+  TModelObserver = class(TInterfacedObject, iSubject)
+  private
+  public
+   constructor Create;
+   destructor Destroy ; override;
+   class function New : iSubject;
+
+   function AddObserver(Value : iObserver) : iSubject;
+   function RemovObserver(Value : iObserver) : iSubject;
+   function Notify(Value : TPedido) : iSubject;
+  end;
+
+implementation
+
+{ TModelObserver }
+
+function TModelObserver.AddObserver(Value: iObserver): iSubject;
+begin
+
+end;
+
+constructor TModelObserver.Create;
+begin
+
+end;
+
+destructor TModelObserver.Destroy;
+begin
+
+  inherited;
+end;
+
+class function TModelObserver.New: iSubject;
+begin
+  Result := Self.create;
+end;
+
+function TModelObserver.Notify(Value: TPedido): iSubject;
+begin
+
+end;
+
+function TModelObserver.RemovObserver(Value: iObserver): iSubject;
+begin
+
+end;
+
+end.
