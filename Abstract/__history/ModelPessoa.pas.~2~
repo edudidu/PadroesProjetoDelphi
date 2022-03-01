@@ -1,0 +1,20 @@
+unit ModelPessoa;
+
+interface
+
+uses
+  Model.interfaces;
+
+type
+
+ TModelPessoa = class(TInterfacedObject, iPessoa)
+ private
+ public
+   constructor Create;
+   destructor Destroy ; override;
+   class function New : iPessoa;
+ end;
+
+implementation
+
+end.

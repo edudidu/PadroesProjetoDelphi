@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/02/11 22:54:38.000.454,=C:\Users\eduardo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/26 21:18:32.000.420,=C:\Users\eduardo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/28 22:36:24.000.821,=C:\Users\eduardo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/28 22:39:28.000.424,=C:\Users\eduardo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/28 22:57:46.000.741,=C:\Users\eduardo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/28 22:58:09.000.833,=C:\Users\eduardo\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/02/28 22:59:30.000.037,C:\Users\eduardo\Documents\Cursos delphi\Padrões de Projeto\Abstract\Model.interfaces.pas=C:\Users\eduardo\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/02/28 23:00:32.000.846,=C:\Users\eduardo\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/02/28 23:00:47.000.039,C:\Users\eduardo\Documents\Cursos delphi\Padrões de Projeto\Abstract\ModelPessoa.pas=C:\Users\eduardo\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/02/28 23:04:25.000.223,=C:\Users\eduardo\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/02/28 23:04:47.000.503,C:\Users\eduardo\Documents\Cursos delphi\Padrões de Projeto\Abstract\Model.NotaFiscal.pas=C:\Users\eduardo\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/02/28 23:05:33.000.965,C:\Users\eduardo\Documents\Cursos delphi\Padrões de Projeto\Abstract\Model.Pessoa.pas=C:\Users\eduardo\Documents\Cursos delphi\Padrões de Projeto\Abstract\ModelPessoa.pas</Transaction>
+    <Transaction>2022/02/28 23:06:41.000.065,C:\Users\eduardo\Documents\Cursos delphi\Padrões de Projeto\Abstract\ModelPessoa.pas=C:\Users\eduardo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/28 23:06:41.000.065,C:\Users\eduardo\Documents\Cursos delphi\Padrões de Projeto\Abstract\ModelPessoa.dfm=C:\Users\eduardo\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/02/28 23:06:56.000.110,C:\Users\eduardo\Documents\Cursos delphi\Padrões de Projeto\Abstract\pAbstract.dproj=C:\Users\eduardo\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/03/01 14:06:58.152,=C:\Users\eduardo\Documents\Cursos delphi\Padrões de Projeto\Abstract\Unit1.pas</Transaction>
+    <Transaction>2022/03/01 14:07:38.926,C:\Users\eduardo\Documents\Cursos delphi\Padrões de Projeto\Abstract\Model.Factory.pas=C:\Users\eduardo\Documents\Cursos delphi\Padrões de Projeto\Abstract\Unit1.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="ModelPessoa.pas"/>
+    <File Path="ModelPessoa.dfm"/>
+    <File Path="Model.interfaces.pas"/>
+    <File Path="Model.Pessoa.pas"/>
+    <File Path="Model.NotaFiscal.pas"/>
+    <File Path="Model.Factory.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>
