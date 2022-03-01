@@ -68,6 +68,7 @@ function TModelCozinha.ReceberPedido(Value: TPedido): iPedidoDestino;
 begin
   Result := Self;
   FLista.Add(Value);
+  FDisplay('Recebido o Pedido: ' + Value.Produto + ' do Setor ' + value.Setor);
 end;
 
 function TModelCozinha.Update(Value: TPedido): iObserver;
